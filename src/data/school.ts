@@ -142,11 +142,11 @@ export const achievements = [
 ];
 
 export const ppdbInfo = {
-  year: "2025/2026",
-  registrationPeriod: "1 Juni - 30 Juni 2025",
-  announcementDate: "10 Juli 2025",
+  year: "2026/2027",
+  registrationPeriod: "1 Juni - 30 Juni 2026",
+  announcementDate: "10 Juli 2026",
   requirements: [
-    "Usia minimal 6 tahun pada 1 Juli 2025",
+    "Usia minimal 6 tahun pada 1 Juli 2026",
     "Fotokopi Akta Kelahiran",
     "Fotokopi Kartu Keluarga",
     "Fotokopi KTP Orang Tua",
@@ -178,3 +178,25 @@ export const news = [
     excerpt: "Tim SDN 03 Kapuk Muara berhasil meraih juara 1 dalam lomba cerdas cermat antar SD.",
   },
 ];
+
+export const announcements = [
+  {
+    title: "Libur Semester Genap",
+    date: "20 Juni 2026",
+    content: "Libur semester genap dimulai tanggal 21 Juni - 14 Juli 2026. Pembagian rapor tanggal 20 Juni 2026.",
+  },
+  {
+    title: "Pendaftaran PPDB 2026/2027",
+    date: "1 Juni 2026",
+    content: "Pendaftaran peserta didik baru tahun ajaran 2026/2027 dibuka mulai 1 Juni 2026.",
+  },
+];
+
+export const dutyTeachers = {
+  monday: { name: "Ahmad Fauzi, S.Pd", phone: "0812-3456-7890" },
+  tuesday: { name: "Dewi Lestari, S.Pd", phone: "0813-4567-8901" },
+  wednesday: { name: "Budi Santoso, S.Pd", phone: "0814-5678-9012" },
+  thursday: { name: "Siti Aminah, S.Pd", phone: "0815-6789-0123" },
+  friday: { name: "Hendra Wijaya, S.Pd", phone: "0816-7890-1234" },
+  saturday: { name: "Rina Wulandari, S.Pd", phone: "0817-8901-2345" },
+};
