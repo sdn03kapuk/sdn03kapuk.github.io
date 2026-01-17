@@ -47,7 +47,7 @@ export default function Header() {
             >
               <Image
                 src="/images/logo-sd.png"
-                alt="Logo SDN 03 Kapuk Muara"
+                alt="Logo SDN Kapuk Muara 03"
                 width={32}
                 height={32}
                 className="object-contain"

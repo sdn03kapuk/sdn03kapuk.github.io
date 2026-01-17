@@ -17,7 +17,7 @@ export default function ContactSection() {
             Informasi Kontak
           </h2>
           <p className="text-slate-500 font-light leading-relaxed text-lg">
-            Kami siap membantu menjawab pertanyaan Anda seputar SDN 03 Kapuk Muara.
+            Kami siap membantu menjawab pertanyaan Anda seputar SDN Kapuk Muara 03.
           </p>
         </div>
 
@@ -120,7 +120,7 @@ export default function ContactSection() {
                   Tim kami siap membantu Anda. Hubungi kami melalui WhatsApp untuk respon cepat.
                 </p>
                 <Link
-                  href={`https://wa.me/${schoolData.contact.whatsapp}?text=Halo, saya ingin bertanya tentang SDN 03 Kapuk Muara`}
+                  href={`https://wa.me/${schoolData.contact.whatsapp}?text=Halo, saya ingin bertanya tentang SDN Kapuk Muara 03`}
                   target="_blank"
                   className="inline-flex items-center gap-3 bg-amber-500 hover:bg-amber-400 text-slate-900 font-medium py-4 px-6 rounded-xl transition-all duration-300"
                 >

@@ -15,7 +15,7 @@ export default function Footer() {
               <div className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center overflow-hidden">
                 <Image
                   src="/images/logo-sd.png"
-                  alt="Logo SDN 03 Kapuk Muara"
+                  alt="Logo SDN Kapuk Muara 03"
                   width={36}
                   height={36}
                   className="object-contain"

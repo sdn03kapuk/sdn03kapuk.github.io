@@ -10,20 +10,24 @@ const ubuntu = Ubuntu({
 });
 
 export const metadata: Metadata = {
-  title: "SDN 03 Kapuk Muara - Sekolah Dasar Negeri di Jakarta Utara",
+  title: "SDN Kapuk Muara 03 - Sekolah Dasar Negeri di Jakarta Utara",
   description:
-    "SDN 03 Kapuk Muara adalah sekolah dasar negeri di Jakarta Utara yang berkomitmen membentuk generasi cerdas, berkarakter, dan cinta lingkungan. Akreditasi A.",
+    "SDN Kapuk Muara 03 adalah sekolah dasar negeri di Jakarta Utara yang berkomitmen membentuk generasi cerdas, berkarakter, dan cinta lingkungan. Akreditasi A.",
   keywords: [
-    "SDN 03 Kapuk Muara",
+    "SDN Kapuk Muara 03",
     "Sekolah Dasar",
     "Jakarta Utara",
     "Penjaringan",
     "PPDB",
     "Pendidikan",
   ],
-  authors: [{ name: "SDN 03 Kapuk Muara" }],
+  authors: [{ name: "SDN Kapuk Muara 03" }],
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
-    title: "SDN 03 Kapuk Muara - Sekolah Dasar Negeri di Jakarta Utara",
+    title: "SDN Kapuk Muara 03 - Sekolah Dasar Negeri di Jakarta Utara",
     description:
       "Membentuk Generasi Cerdas, Berkarakter, dan Cinta Lingkungan",
     type: "website",

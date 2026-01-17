@@ -1,6 +1,6 @@
 export const schoolData = {
-  name: "SDN 03 Kapuk Muara",
-  fullName: "Sekolah Dasar Negeri 03 Kapuk Muara",
+  name: "SDN Kapuk Muara 03",
+  fullName: "Sekolah Dasar Negeri Kapuk Muara 03",
   tagline: "Membentuk Generasi Cerdas, Berkarakter, dan Cinta Lingkungan",
   npsn: "20104567",
   accreditation: "A",
@@ -45,7 +45,7 @@ export const principalData = {
   name: "Dra. Siti Rahayu, M.Pd",
   photo: "/images/principal.jpg",
   message:
-    "Selamat datang di SDN 03 Kapuk Muara. Kami berkomitmen untuk memberikan pendidikan berkualitas yang tidak hanya mengembangkan kecerdasan akademik, tetapi juga membentuk karakter peserta didik yang berakhlak mulia dan siap menghadapi tantangan masa depan.",
+    "Selamat datang di SDN Kapuk Muara 03. Kami berkomitmen untuk memberikan pendidikan berkualitas yang tidak hanya mengembangkan kecerdasan akademik, tetapi juga membentuk karakter peserta didik yang berakhlak mulia dan siap menghadapi tantangan masa depan.",
 };
 
 export const teachers = [
@@ -165,7 +165,7 @@ export const news = [
   {
     title: "Peringatan Hari Pendidikan Nasional 2024",
     date: "2 Mei 2024",
-    excerpt: "SDN 03 Kapuk Muara mengadakan upacara dan berbagai lomba dalam rangka memperingati Hardiknas.",
+    excerpt: "SDN Kapuk Muara 03 mengadakan upacara dan berbagai lomba dalam rangka memperingati Hardiknas.",
   },
   {
     title: "Kunjungan Edukasi ke Museum Nasional",
@@ -175,7 +175,7 @@ export const news = [
   {
     title: "Juara Lomba Cerdas Cermat Tingkat Kecamatan",
     date: "20 Maret 2024",
-    excerpt: "Tim SDN 03 Kapuk Muara berhasil meraih juara 1 dalam lomba cerdas cermat antar SD.",
+    excerpt: "Tim SDN Kapuk Muara 03 berhasil meraih juara 1 dalam lomba cerdas cermat antar SD.",
   },
 ];
 
@@ -199,4 +199,23 @@ export const dutyTeachers = {
   thursday: { name: "Siti Aminah, S.Pd", phone: "0815-6789-0123" },
   friday: { name: "Hendra Wijaya, S.Pd", phone: "0816-7890-1234" },
   saturday: { name: "Rina Wulandari, S.Pd", phone: "0817-8901-2345" },
+};
+
+export const tppkData = {
+  title: "Tim Pencegahan dan Penanganan Kekerasan",
+  shortTitle: "TPPK",
+  description: "Satuan tugas yang bertugas mencegah dan menangani kekerasan di lingkungan sekolah sesuai Permendikbudristek No. 46 Tahun 2023.",
+  hotline: "0811-1234-5678",
+  email: "tppk.sdnkapukmuara03@jakarta.go.id",
+  team: [
+    { name: "Dra. Siti Rahayu, M.Pd", role: "Ketua TPPK" },
+    { name: "Ahmad Fauzi, S.Pd", role: "Sekretaris" },
+    { name: "Dewi Lestari, S.Pd", role: "Anggota" },
+  ],
+  services: [
+    "Pencegahan kekerasan di sekolah",
+    "Penanganan laporan kekerasan",
+    "Konseling dan pendampingan korban",
+    "Edukasi anti-bullying",
+  ],
 };

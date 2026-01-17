@@ -6,6 +6,7 @@ import ProgramsSection from "@/components/sections/ProgramsSection";
 import FacilitiesSection from "@/components/sections/FacilitiesSection";
 import AchievementsSection from "@/components/sections/AchievementsSection";
 import PPDBSection from "@/components/sections/PPDBSection";
+import TPPKSection from "@/components/sections/TPPKSection";
 import ContactSection from "@/components/sections/ContactSection";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
         <FacilitiesSection />
         <AchievementsSection />
         <PPDBSection />
+        <TPPKSection />
         <ContactSection />
       </main>
       <Footer />

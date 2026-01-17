@@ -17,7 +17,7 @@ export default function AboutSection() {
             Tentang Sekolah
           </h2>
           <p className="text-slate-500 font-light leading-relaxed text-lg">
-            Mengenal lebih dekat SDN 03 Kapuk Muara, sekolah dasar negeri yang berkomitmen
+            Mengenal lebih dekat SDN Kapuk Muara 03, sekolah dasar negeri yang berkomitmen
             mencetak generasi berkualitas di Jakarta Utara.
           </p>
         </div>

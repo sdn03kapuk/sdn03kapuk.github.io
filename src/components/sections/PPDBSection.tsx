@@ -24,7 +24,7 @@ export default function PPDBSection() {
           </h2>
           <p className="text-white/60 font-light leading-relaxed text-lg">
             Segera daftarkan putra-putri Anda untuk menjadi bagian dari keluarga besar
-            SDN 03 Kapuk Muara.
+            SDN Kapuk Muara 03.
           </p>
         </div>
 
